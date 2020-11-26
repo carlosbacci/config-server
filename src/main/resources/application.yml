@@ -1,0 +1,11 @@
+server:
+  port: 8111
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri:
+          username: 
+          password:
+          skipSslValidation: true
