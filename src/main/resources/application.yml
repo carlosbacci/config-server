@@ -5,7 +5,5 @@ spring:
     config:
       server:
         git:
-          uri:
-          username: 
-          password:
+          uri: https://github.com/carlosbacci/config-server.git 
           skipSslValidation: true
